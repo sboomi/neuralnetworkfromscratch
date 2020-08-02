@@ -1,0 +1,78 @@
+altair==4.1.0
+astor==0.8.1
+attrs==19.3.0
+backcall==0.1.0
+bleach==3.1.4
+blinker==1.4
+boto3==1.12.48
+cachetools==4.1.0
+certifi==2020.6.20
+chardet==3.0.4
+click==7.1.2
+colorama==0.4.3
+cycler==0.10.0
+decorator==4.4.2
+defusedxml==0.6.0
+entrypoints==0.3
+importlib-metadata @ file:///C:/ci/importlib-metadata_1593446525189/work
+ipykernel==5.2.1
+ipython==7.13.0
+ipython-genutils==0.2.0
+ipywidgets==7.5.1
+jedi==0.17.0
+Jinja2==2.11.2
+joblib @ file:///home/conda/feedstock_root/build_artifacts/joblib_1593624380152/work
+jsonschema @ file:///C:/ci/jsonschema_1594363671836/work
+jupyter==1.0.0
+jupyter-client==6.1.3
+jupyter-console==6.1.0
+jupyter-core==4.6.3
+kiwisolver==1.2.0
+MarkupSafe @ file:///C:/ci/markupsafe_1594405949945/work
+matplotlib @ file:///D:/bld/matplotlib-base_1595353264753/work
+mistune==0.8.4
+mkl-fft==1.1.0
+mkl-random==1.1.1
+mkl-service==2.3.0
+nbconvert==5.6.1
+nbformat==5.0.7
+notebook==6.0.3
+numpy==1.18.5
+olefile==0.46
+packaging==20.4
+pandas @ file:///D:/bld/pandas_1595958729109/work
+pandocfilters==1.4.2
+parso==0.7.0
+pickleshare==0.7.5
+Pillow @ file:///C:/ci/pillow_1594298234712/work
+prometheus-client==0.7.1
+prompt-toolkit==3.0.5
+protobuf==3.12.4
+pydeck==0.3.1
+Pygments==2.6.1
+pyparsing==2.4.7
+pyrsistent==0.16.0
+python-dateutil==2.8.1
+pytz==2020.1
+pywin32==227
+pywinpty==0.5.7
+pyzmq==19.0.1
+qtconsole @ file:///tmp/build/80754af9/qtconsole_1592848611704/work
+QtPy==1.9.0
+requests==2.23.0
+s3transfer==0.3.3
+scikit-learn @ file:///D:/bld/scikit-learn_1589921036638/work
+scipy==1.4.1
+Send2Trash==1.5.0
+six==1.15.0
+terminado==0.8.3
+testpath==0.4.4
+threadpoolctl @ file:///tmp/tmp79xdzxkt/threadpoolctl-2.1.0-py3-none-any.whl
+tornado==6.0.4
+traitlets==4.3.3
+tzlocal==2.0.0
+wcwidth @ file:///tmp/build/80754af9/wcwidth_1593447189090/work
+webencodings==0.5.1
+widgetsnbextension==3.5.1
+wincertstore==0.2
+zipp==3.1.0
