@@ -30,7 +30,7 @@ jupyter-core==4.6.3
 kiwisolver==1.2.0
 MarkupSafe @ file:///C:/ci/markupsafe_1594405949945/work
 matplotlib @ file:///D:/bld/matplotlib-base_1595353264753/work
-mistune==0.8.4
+mistune==2.0.3
 mkl-fft==1.1.0
 mkl-random==1.1.1
 mkl-service==2.3.0
